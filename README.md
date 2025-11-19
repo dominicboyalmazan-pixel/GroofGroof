@@ -1,0 +1,1 @@
+Due to Size problem this is the link of the original data set https://www.kaggle.com/code/rajtilak/mental-health-sentiment-analysis-nlp-ml?fbclid=IwY2xjawOKe51leHRuA2FlbQIxMABicmlkETF4RkU5Q244R05UNjBzTWJPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtbYKsWLhceBstjCYOA8u1vYEUuxeeIUYt0jVNsUd-kxVobwhmFhM3RzS-Ny_aem_ZyqC2DF0BlbRNrF53axsvw#-3.-Text-Preprocessing-
